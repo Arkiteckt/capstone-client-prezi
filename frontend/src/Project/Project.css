@@ -1,0 +1,31 @@
+.taskContainer {
+  height: 85vh;
+  overflow: auto;
+}
+
+.btnUpdate {
+  background-color: #b0df09;
+  color: white;
+}
+
+.btnUpdate:hover {
+  background-color: white;
+  /* #3feee6 */
+  color: #4208d7;
+  border: 1px solid #4705ba;
+}
+
+.btnClose {
+  background-color: #d7e5e6;
+  color: rgb(171, 17, 17);
+}
+
+.btnClose:hover {
+  color: #520000;
+  background-color: white;
+  border: 1px solid #520000;
+}
+
+.projTitle {
+  color: #0b60e8;
+}
